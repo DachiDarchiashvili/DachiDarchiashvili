@@ -10,6 +10,7 @@
 ## 🎮 When I'm AFK:
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/dachidarchiashvili/)
+[![Steam](https://img.shields.io/badge/Profile-%23000000.svg?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/animelist/DonDachi?status=7)
 
 <!--
 **DachiDarchiashvili/DachiDarchiashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
